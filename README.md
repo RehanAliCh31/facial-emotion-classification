@@ -86,8 +86,6 @@ Balanced across all classes despite heavy class imbalance (handled with class we
 ├── Image_classifier.ipynb                 # Stage 1: classic ML (57%)
 ├── image_classifier_dl.ipynb              # Stage 2: deep learning on FER+ (82.7%)
 ├── Emotion_Classifier_Production.ipynb    # Stage 3: production on RAF-DB (90.2%)
-├── GLOSSARY.md                            # every term explained in simple words
-└── INTERVIEW_PREP.md                      # project defense / interview Q&A
 ```
 
 ---
